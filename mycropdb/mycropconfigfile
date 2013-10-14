@@ -1,0 +1,7 @@
+## bibliography manager config file
+#Sun Oct 02 19:43:09 EEST 2011
+Producer\ ID=45
+BrowseDir=/home/nickapos
+DataDir=/home/nickapos/testing/myCrop/mycropdb/datadir/
+DatabaseName=db0
+InDataSet=/home/nickapos/testing/myCrop/mycropdb/dataset/

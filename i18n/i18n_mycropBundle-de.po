@@ -1,0 +1,741 @@
+# German translation for mycrop
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the mycrop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mycrop\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-09-30 21:56+0300\n"
+"PO-Revision-Date: 2012-05-24 13:15+0000\n"
+"Last-Translator: Daniel Dietrich <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-24 14:08+0000\n"
+"X-Generator: Launchpad (build 15288)\n"
+
+#: cropsUI.jLabel17.text
+msgctxt "cropsUI.jLabel17.text"
+msgid "Crop Type"
+msgstr "Pflanzentyp"
+
+#: cropsUI.cropTypeRetrieveButton.text
+msgctxt "cropsUI.cropTypeRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.jLabel12.text
+msgctxt "cropsUI.jLabel12.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: cropsUI.jLabel10.text
+msgid "Crop Type Name"
+msgstr "Pflanzenname"
+
+#: cropsUI.jLabel9.text
+msgid "Crop Type ID"
+msgstr "Pflanzenkennnummer"
+
+#: cropsUI.jLabel5.text
+msgctxt "cropsUI.jLabel5.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: cropsUI.jLabel19.text
+msgid "Name"
+msgstr "Name"
+
+#: cropsUI.jLabel20.text
+msgid "Size (sq. meters)"
+msgstr "Größe (Quadratmeter)"
+
+#: cropsUI.jLabel18.text
+msgctxt "cropsUI.jLabel18.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: cropsUI.jLabel27.text
+msgid "Field ID"
+msgstr "Pflanzenkennnummer"
+
+#: cropsUI.cropTypeDetailsGoButton.text
+msgctxt "cropsUI.cropTypeDetailsGoButton.text"
+msgid "Go!"
+msgstr "Los!"
+
+#: cropsUI.InsertEditFieldPanel.TabConstraints.tabTitle
+msgid "Insert/Edit Field"
+msgstr "Feld einfügen/editieren"
+
+#: cropsUI.jLabel24.text
+msgid "West Border"
+msgstr "Westliche Grenze"
+
+#: cropsUI.jLabel23.text
+msgid "South Border"
+msgstr "Südliche Grenze"
+
+#: cropsUI.jLabel26.text
+msgctxt "cropsUI.jLabel26.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: cropsUI.productionGoButton.text
+msgctxt "cropsUI.productionGoButton.text"
+msgid "Go!"
+msgstr "Los!"
+
+#: cropsUI.jLabel22.text
+msgid "East Border"
+msgstr "Östliche Grenze"
+
+#: cropsUI.productionRetrieveButton.text
+msgctxt "cropsUI.productionRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.jLabel21.text
+msgid "North Border"
+msgstr "Nördliche Grenze"
+
+#: cropsUI.jLabel4.text
+msgctxt "cropsUI.jLabel4.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: cropsUI.jLabel3.text
+msgctxt "cropsUI.jLabel3.text"
+msgid "Quantity (Kgr)"
+msgstr "Menge (kg)"
+
+#: cropsUI.jLabel2.text
+msgid "Date of Harvest (YYYY-MM-DD)"
+msgstr "Datum der Ernte(JJJJ-MM-TT)"
+
+#: cropsUI.jLabel25.text
+msgctxt "cropsUI.jLabel25.text"
+msgid "Crop Type"
+msgstr "Pflanzentyp"
+
+#: cropsUI.InsertEditApplicationType.TabConstraints.tabTitle
+msgid "Insert/Edit Application Type"
+msgstr "Anwendungstyp einfügen/editieren"
+
+#: cropsUI.jLabel28.text
+msgctxt "cropsUI.jLabel28.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: cropsUI.jLabel29.text
+msgid "Application Type ID"
+msgstr "Anwendungstypkennnummer"
+
+#: cropsUI.farmFieldRetrieveButton.text
+msgctxt "cropsUI.farmFieldRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.farmfieldGoButton.text
+msgctxt "cropsUI.farmfieldGoButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: cropsUI.ReportsPanel.TabConstraints.tabTitle
+msgid "Text Reports"
+msgstr "Schriftliche Berichte"
+
+#: cropsUI.jLabel1.text
+msgctxt "cropsUI.jLabel1.text"
+msgid "Field Name"
+msgstr "Feldname"
+
+#: cropsUI.title
+msgid "myCrop"
+msgstr "myCrop"
+
+#: cropsUI.jLabel36.text
+msgctxt "cropsUI.jLabel36.text"
+msgid "Quantity (Kgr)"
+msgstr "Menge (kg)"
+
+#: cropsUI.jLabel40.text
+msgid "Application Type"
+msgstr "Anwendungstyp"
+
+#: cropsUI.jLabel38.text
+msgid "Date Of Application (YYYY-MM-DD)"
+msgstr "Datum der Anwendung (JJJJ-MM-TT)"
+
+#: cropsUI.jLabel6.text
+msgid "Production Id"
+msgstr "Produktionskennnummer"
+
+#: cropsUI.InsertEditProduction.TabConstraints.tabTitle
+msgid "Insert/Edit Production"
+msgstr "Produktion einfügen/editieren"
+
+#: cropsUI.jLabel37.text
+msgid "Expenses"
+msgstr "Ausgaben"
+
+#: cropsUI.jLabel8.text
+msgctxt "cropsUI.jLabel8.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: cropsUI.appTypeRetrieveButton.text
+msgctxt "cropsUI.appTypeRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.appTypeGoButton.text
+msgctxt "cropsUI.appTypeGoButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: cropsUI.jLabel31.text
+msgid "Application Observations"
+msgstr "Beobachtungen bei Anwendung"
+
+#: cropsUI.jLabel39.text
+msgctxt "cropsUI.jLabel39.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: cropsUI.jLabel30.text
+msgid "Aplication Name"
+msgstr "Anwendungsname"
+
+#: cropsUI.exportDBMenuItem.text
+msgid "Export Database"
+msgstr "Datenbank exportieren"
+
+#: cropsUI.emptyDBMenuItem.text
+msgid "EmptyDatabase"
+msgstr "Leere Datenbank"
+
+#: cropsUI.shutdownMenuItem.text
+msgid "Shutdown"
+msgstr "Beenden"
+
+#: cropsUI.aboutMenuItem.text
+msgctxt "cropsUI.aboutMenuItem.text"
+msgid "About"
+msgstr "Über"
+
+#: cropsUI.InsertEditApplication.TabConstraints.tabTitle
+msgid "Insert/Edit Application"
+msgstr "Anwendung einfügen/editieren"
+
+#: cropsUI.jLabel32.text
+msgctxt "cropsUI.jLabel32.text"
+msgid "Action"
+msgstr "Maßnahme"
+
+#: cropsUI.jLabel33.text
+msgid "Application ID"
+msgstr "Anwendungskennnummer"
+
+#: cropsUI.jLabel35.text
+msgctxt "cropsUI.jLabel35.text"
+msgid "Field Name"
+msgstr "Feldname"
+
+#: cropsUI.jLabel34.text
+msgctxt "cropsUI.jLabel34.text"
+msgid "Crop Type"
+msgstr "Pflanzentyp"
+
+#: cropsUI.reportButton.text
+msgctxt "cropsUI.reportButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: cropsUI.jMenuItem2.text
+msgid "Import DB Tables"
+msgstr "Importiere Datenbanktabellen"
+
+#: cropsUI.cropFieldGoButton.text
+msgctxt "cropsUI.cropFieldGoButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: cropsUI.cropFieldRetrieveButton.text
+msgctxt "cropsUI.cropFieldRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.jLabel15.text
+msgid "Crop Details"
+msgstr "Pflanzendetails"
+
+#: cropsUI.jLabel14.text
+msgctxt "cropsUI.jLabel14.text"
+msgid "Field Name"
+msgstr "Feldname"
+
+#: cropsUI.InsertEditCropTypePanel.TabConstraints.tabTitle
+msgid "Insert/Edit Crop Type"
+msgstr "Pflanzentyp einfügen/editieren"
+
+#: cropsUI.jLabel13.text
+msgctxt "cropsUI.jLabel13.text"
+msgid "Action"
+msgstr "Maßnahme"
+
+#: cropsUI.InsertEditCropForAField.TabConstraints.tabTitle
+msgid "Insert/Edit Crop For a Field"
+msgstr "Pflanze für ein Feld einfügen/editieren"
+
+#: cropsUI.jLabel16.text
+msgid "Crop Field ID"
+msgstr "Pflanzenfeldkennnummer"
+
+#: cropsUI.applicationRetrieveButton.text
+msgctxt "cropsUI.applicationRetrieveButton.text"
+msgid "Retrieve"
+msgstr "Abfragen"
+
+#: cropsUI.insertEditApplicationGoButton.text
+msgctxt "cropsUI.insertEditApplicationGoButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: cropsUI.reportsLabel.text
+msgid "Reports"
+msgstr "Berichte"
+
+#: cropsUI.reportsParametersLabel.text
+msgid "Report Parameters"
+msgstr "Berichteparameter"
+
+#: cropsUI.jPanel1.TabConstraints.tabTitle
+msgid "tab8"
+msgstr "tab8"
+
+#: cropsUI.saveReportAsCsvButton.text
+msgid "Save report as csv"
+msgstr "Bericht als CSV-Datei speichern"
+
+#: ExecuteSqlWindow.title
+msgid "Execute Sql"
+msgstr "SQL Ausführen"
+
+#: ExecuteSqlWindow.executeButton.text
+msgid "Execute"
+msgstr "Ausführen"
+
+#: ExecuteSqlWindow.jLabel2.text
+msgid "Use only create,insert,delete,update,drop commands. Be vary carefull"
+msgstr ""
+"Benutze nur create, insert, delete, update, drop Befehle. Sei sehr "
+"vorsichtig."
+
+#: SOMETHING-WENT-WRONG-PLEASE-TRY-AGAIN
+msgid "Something went wrong. Please try again!"
+msgstr "Irgend etwas ist schief gelaufen. Bitte probieren Sie es erneut!"
+
+#: INSERT
+msgid "Insert"
+msgstr "Einfügen"
+
+#: EDIT
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: DELETE
+msgid "Delete"
+msgstr "Löschen"
+
+#: CROP-TYPES
+msgid "Crop Types"
+msgstr "Pflanzenarten"
+
+#: PRODUCTION
+msgid "Production"
+msgstr "Produktion"
+
+#: CROP-FIELDS
+msgid "Crop Fields"
+msgstr "Pflanzenfelder"
+
+#: FARM-FIELDS
+msgctxt "FARM-FIELDS"
+msgid "Farm Fields"
+msgstr "Betriebsfelder"
+
+#: APPLICATION-TYPES
+msgid "Application Types"
+msgstr "Anwendungstypen"
+
+#: APPLICATIONS
+msgid "Applications"
+msgstr "Anwendungen"
+
+#: THE-DATABASE-ENGINE-AND-THE-APPLICATION-WILL-SHUTDOWN
+msgid "The database engine and the application will shutdown!"
+msgstr "Die Datenbank und die Anwendung werden geschlossen!"
+
+#: ALL-THE-DATABASE-CONTENT-IS-GOING-TO-BE-DELETED
+msgid "All the database content is going to be deleted!"
+msgstr "Der gesamte Datenbank-Inhalt wird gelöscht werden!"
+
+#: THE-DATABASE-IS-NOT-EMPTY-I-WILL-DO-NOTHING
+msgid "The database is not Empty. I will do nothing!"
+msgstr "Die Datenbank ist nicht leer. Ich werde nichts tun!"
+
+#: cropsUI.jLabel7.text
+msgid "Field"
+msgstr "Feld"
+
+#: cropsUI.jLabel42.text
+msgctxt "cropsUI.jLabel42.text"
+msgid "Period"
+msgstr "Zeitraum"
+
+#: PRODUCTION-PER-FIELD-CROP-IN-DATE-PERIOD
+msgid "Total Production per field and crop"
+msgstr "Gesamtproduktion pro Feld und Pflanze"
+
+#: TOTAL-PRODUCTION-OF-CROP
+msgid "Total production of crop type"
+msgstr "Gesamtproduktion der Pflanzenart"
+
+#: TOTAL-PRODUCTION-OF-CROP-IN-PERIOD
+msgid "Total production of crop type for a time period"
+msgstr "Gesamtproduktion der Pflanzenart in einem Zeitraum"
+
+#: APPLICATIONS-PER-CROP-FIELD
+msgid "Applications for a specifid crop in a field"
+msgstr "Anwendungen auf eine spezifische Pflanze eines Feldes"
+
+#: APPLICATIONS-PER-CROP-FIELD-FOR-PERIOD
+msgid "Applications for a specific crop in a field for a time period"
+msgstr ""
+"Anwendungen auf eine spezifische Pflanze eines Feldes in einem Zeitraum"
+
+#: cropsUI.jLabel41.text
+msgctxt "cropsUI.jLabel41.text"
+msgid "Start"
+msgstr "Beginn"
+
+#: cropsUI.jLabel43.text
+msgctxt "cropsUI.jLabel43.text"
+msgid "End"
+msgstr "Ende"
+
+#: EMPTY-VALUES
+msgid "Empty values are not allowed. Please try again"
+msgstr "Leere Werte sind nicht erlaubt. Bitte versuchen Sie es erneut"
+
+#: NutrientTypesWindow.jLabel2.text
+msgctxt "NutrientTypesWindow.jLabel2.text"
+msgid "Action"
+msgstr "Maßnahme"
+
+#: NutrientTypesWindow.executeButton.text
+msgctxt "NutrientTypesWindow.executeButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: NutrientTypesWindow.title
+msgid "Nutrient Type Managment"
+msgstr "Pflanzennährstoffverwaltung"
+
+#: NutrientTypesWindow.jLabel1.text
+msgctxt "NutrientTypesWindow.jLabel1.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: NutrientTypesWindow.jLabel4.text
+msgid "Select Nutrient Type"
+msgstr "Nährstofftyp wählen"
+
+#: NutrientTypesWindow.jLabel5.text
+msgid "Nutrient Type Name*"
+msgstr "Nährstoffname*"
+
+#: NutrientTypesWindow.jLabel6.text
+msgid "Nutrient Type Symbol*"
+msgstr "Nährstoffsymbol*"
+
+#: NutrientTypesWindow.AccessibleContext.accessibleName
+msgid "Manage Nutrient Types"
+msgstr "Nährstofftypen verwalten"
+
+#: NutrientTypesWindow.jLabel7.text
+msgid "Atomic Weight"
+msgstr "relative Atommasse"
+
+#: cropsUI.operationsMenu.text
+msgid "Operations"
+msgstr "Operationen"
+
+#: cropsUI.aboutMenu.text
+msgctxt "cropsUI.aboutMenu.text"
+msgid "About"
+msgstr "Über"
+
+#: cropsUI.advFeaturesMenu.text
+msgid "Advanced Features"
+msgstr "Erweiterte Funktionen"
+
+#: cropsUI.nutTypesManagmentMenuItem.text
+msgid "Nutrient Types Managment"
+msgstr "Nährstofftypverwaltung"
+
+#: cropsUI.exequteSqlMenuItem.text
+msgid "Execute SQL"
+msgstr "SQL ausführen"
+
+#: RecipiesWindow.executeButton.text
+msgctxt "RecipiesWindow.executeButton.text"
+msgid "Go"
+msgstr "Los!"
+
+#: RecipiesWindow.jLabel4.text
+msgid "Nutrient Type (*)"
+msgstr "Nährstofftyp (*)"
+
+#: RecipiesWindow.jLabel5.text
+msgid "Crop type (*)"
+msgstr "Pflanzentyp (*)"
+
+#: RecipiesWindow.title
+msgid "Fertilizer Recipe Managment"
+msgstr "Düngemittelrezeptverwaltung"
+
+#: RecipiesWindow.jLabel2.text
+msgctxt "RecipiesWindow.jLabel2.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: RecipiesWindow.jLabel7.text
+msgid "Quantity (*)"
+msgstr "Menge (*)"
+
+#: RecipiesWindow.jLabel1.text
+msgctxt "RecipiesWindow.jLabel1.text"
+msgid "Observations"
+msgstr "Beobachtungen"
+
+#: cropsUI.fertilizerRecipiesMenu.text
+msgid "Fertilizer Recipies"
+msgstr "Düngemittelrezepte"
+
+#: cropsUI.fertilizerRecipiesManagmentMenuItem.text
+msgid "Fertilizer Recipies Management"
+msgstr "Düngemittelrezeptverwaltung"
+
+#: cropsUI.nutrientDepletionMenuItem.text
+msgid "Estimated Nutrient Depletion"
+msgstr "Geschätzter Düngemittelverbrauch"
+
+#: NutrientDelpetionEstimateWindow.title
+msgid "Nutrient Depletion Estimate"
+msgstr "Düngemittelverbrauchsschätzung"
+
+#: NutrientDelpetionEstimateWindow.jLabel5.text
+msgctxt "NutrientDelpetionEstimateWindow.jLabel5.text"
+msgid "Farm Fields"
+msgstr "Betriebsfelder"
+
+#: NutrientDelpetionEstimateWindow.jLabel4.text
+msgctxt "NutrientDelpetionEstimateWindow.jLabel4.text"
+msgid "Crop Type"
+msgstr "Pflanzentyp"
+
+#: NutrientDelpetionEstimateWindow.jLabel43.text
+msgctxt "NutrientDelpetionEstimateWindow.jLabel43.text"
+msgid "End"
+msgstr "Ende"
+
+#: NutrientDelpetionEstimateWindow.jLabel41.text
+msgctxt "NutrientDelpetionEstimateWindow.jLabel41.text"
+msgid "Start"
+msgstr "Beginn"
+
+#: NutrientDelpetionEstimateWindow.jLabel42.text
+msgctxt "NutrientDelpetionEstimateWindow.jLabel42.text"
+msgid "Period"
+msgstr "Zeitraum"
+
+#: NutrientDelpetionEstimateWindow.resultsTable.columnModel.title0
+msgctxt "NutrientDelpetionEstimateWindow.resultsTable.columnModel.title0"
+msgid "Nutrient Type"
+msgstr "Düngemitteltyp"
+
+#: NutrientDelpetionEstimateWindow.resultsTable.columnModel.title1
+msgctxt "NutrientDelpetionEstimateWindow.resultsTable.columnModel.title1"
+msgid "Quantity"
+msgstr "Menge"
+
+#: NUTRIENT_TYPE
+msgctxt "NUTRIENT_TYPE"
+msgid "Nutrient Type"
+msgstr "Düngemitteltyp"
+
+#: QUANTITY
+msgctxt "QUANTITY"
+msgid "Quantity"
+msgstr "Menge"
+
+#: KGR
+msgid "kgr"
+msgstr "kg"
+
+#: EtWindow.title
+msgid "Evaportranspiration Calculation Methods"
+msgstr "Evapotranspiration-Berechnungsmethoden"
+
+#: EtWindow.EtoPanel.TabConstraints.tabTitle
+msgid "Calculate Eto"
+msgstr "Berechne ETo"
+
+#: EtWindow.jLabel1.text
+msgctxt "EtWindow.jLabel1.text"
+msgid "Tmax"
+msgstr "Tmax"
+
+#: EtWindow.EaPanel.TabConstraints.tabTitle
+msgid "Calculate Ea"
+msgstr "Berechne Ea"
+
+#: EtWindow.EaPoorPanel.TabConstraints.tabTitle
+msgid "Calculate Ea Poor"
+msgstr "Berechne Ea poor"
+
+#: EtWindow.jLabel2.text
+msgid "Insert Tmax"
+msgstr "Tmax einfügen"
+
+#: EtWindow.jLabel3.text
+msgid "Insert Tmin"
+msgstr "Tmin einfügen"
+
+#: EtWindow.jLabel4.text
+msgid "Insert Rh"
+msgstr "relative Luftfeuchtigkeit (Rh) einfügen"
+
+#: EtWindow.jLabel5.text
+msgctxt "EtWindow.jLabel5.text"
+msgid "Result"
+msgstr "Ergebnis"
+
+#: EtWindow.jLabel8.text
+msgctxt "EtWindow.jLabel8.text"
+msgid "Tmax"
+msgstr "Tmax"
+
+#: EtWindow.jLabel9.text
+msgctxt "EtWindow.jLabel9.text"
+msgid "Tmin"
+msgstr "Tmin"
+
+#: EtWindow.jLabel10.text
+msgid "RHmax"
+msgstr "RHmax"
+
+#: EtWindow.jLabel11.text
+msgid "RHmin"
+msgstr "RHmin"
+
+#: EtWindow.jLabel12.text
+msgctxt "EtWindow.jLabel12.text"
+msgid "Result"
+msgstr "Ergebnis"
+
+#: EtWindow.eaPoorButton.text
+msgctxt "EtWindow.eaPoorButton.text"
+msgid "Calculate"
+msgstr "Berechne"
+
+#: EtWindow.jLabel6.text
+msgctxt "EtWindow.jLabel6.text"
+msgid "Tmin"
+msgstr "Tmin"
+
+#: EtWindow.jLabel15.text
+msgid "Ea"
+msgstr "Ea"
+
+#: EtWindow.jLabel16.text
+msgid "Air Speed"
+msgstr "Luftgeschwindigkeit"
+
+#: EtWindow.jTextField8.text
+msgid "jTextField8"
+msgstr "jTextField8"
+
+#: EtWindow.jLabel17.text
+msgid "Month Number"
+msgstr "Nummer des Monats"
+
+#: EtWindow.jLabel18.text
+msgid "Latitude Degrees"
+msgstr "Breitengrad"
+
+#: EtWindow.jLabel19.text
+msgid "Latitude Minutes"
+msgstr "Breitengradminuten"
+
+#: EtWindow.jLabel20.text
+msgid "Average Month Temperature"
+msgstr "Durchschnittliche Temperatur im Monat"
+
+#: EtWindow.jLabel21.text
+msgid "Previous Month Average Temperature"
+msgstr "Vorherige durchschnittliche Temperatur im Monat"
+
+#: EtWindow.jLabel22.text
+msgid "Altitude"
+msgstr "Höhe"
+
+#: EtWindow.jLabel23.text
+msgid "Sun Hours"
+msgstr "Sonnenstunden"
+
+#: EtWindow.jLabel24.text
+msgid "ETo Results"
+msgstr "ETo Ergebnisse"
+
+#: EtWindow.jLabel27.text
+msgid "Kc"
+msgstr "Kc"
+
+#: EtWindow.jLabel28.text
+msgid "ET Results"
+msgstr "ET Ergebnisse"
+
+#: EtWindow.eaButton.text
+msgctxt "EtWindow.eaButton.text"
+msgid "Calculate"
+msgstr "Berechne"
+
+#: EtWindow.calcEToButton.text
+msgid "Calculate ETo"
+msgstr "Berechne ETo"
+
+#: EtWindow.calcETButton.text
+msgid "Calculte ET"
+msgstr "Berechne ET"
+
+#: cropsUI.jMenuItem1.text
+msgid "EvaporTranspiration"
+msgstr "EvapoTranspiration"
+
+#: cropsUI.exportSurveyorDataMenuItem.text
+msgid "Export myCropSurvey Data"
+msgstr "Exportiere myCrop-Daten"
+
+#: cropsUI.importMainMenu.text
+msgid "Import"
+msgstr "Importieren"
+
+#: cropsUI.exportMainMenu.text
+msgid "Export"
+msgstr "Exportieren"

@@ -1,0 +1,4 @@
+drop table production
+drop table cropfields
+drop table croptype
+drop table farmfield

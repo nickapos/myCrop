@@ -1,0 +1,7 @@
+#---MyCrop Properties---
+#Tue Mar 08 21:56:26 EET 2011
+url=jdbc\:hsqldb\:
+password=
+dbdriver=org.hsqldb.jdbcDriver
+dbname=file\:mydb
+username=sa

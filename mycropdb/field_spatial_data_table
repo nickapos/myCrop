@@ -1,0 +1,3 @@
+alter table farmfield add column longitude double
+alter table farmfield add column latitude double 
+alter table farmfield add column elevation double

@@ -1,0 +1,24 @@
+myCrop is a farm strategic analysis and management application intended for
+amateur or professional farmers. 
+
+It can collect and manage data for:
+
+    farm fields, 
+    crop types, 
+    crops per farm field 
+    the yield of each crop. 
+
+It can also collect and manage data for any kind of application on these crops
+some of which are:
+
+    watering 
+    pruning 
+    fertilizing 
+    pesticide 
+    applications 
+
+All the above can be presented in various reports, that can be used to estimate
+the crop yield during a span of years or determining the needs of fertilization
+of a field based on its crops production. Journal reports for crop and field
+applications required by GAP (Good Agricultural Practices), EUREPGAP and other
+production standards organizations will also be implemented.
